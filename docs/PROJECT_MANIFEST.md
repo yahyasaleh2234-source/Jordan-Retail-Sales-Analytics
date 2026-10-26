@@ -1,7 +1,7 @@
 # Project Manifest
 
 **Project:** Excel Portfolio Project 2 — Jordan Sales & Customer Data Analysis  
-**Package type:** Documentation + approved redaction-safe chart/report images  
+**Package type:** Documentation and four workbook screenshots  
 **Status:** Files produced; **not ready for a public workbook upload**
 
 ## Included assets
@@ -21,11 +21,11 @@
 | `assets/regional_revenue.png` | Aggregate revenue chart |
 | `assets/data_quality_overview.png` | Aggregate data-quality counts |
 | `assets/financial_data_quality.png` | Aggregate completeness and value counts |
+| `assets/dashboard_overview.png` | Executive dashboard (customer-label privacy review outstanding) |
 
 ## Not included (intentionally)
 
 - **Original or final Excel workbook:** Contains personal customer data and requires sanitization and rights verification.
-- **Executive Dashboard image:** Excluded because customer identities and IDs appeared in the chart.
 - **Master Sales image:** Excluded because customer IDs were exposed.
 - **Monthly Sales image:** Original candidate showed cropped labels and mixed measures; excluded pending a cleaner export.
 - **ChatGPT handover:** Excluded at the user's request.
